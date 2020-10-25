@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+журнал
+</title>
+
+</head>
+<body>
+<header> шапка </header>
+<nav>
+  <a>главное</a>
+  <a> подробнее</a>
+  <a> контакты</a>
+</nav>
+<section>
+  <h1>
+  основная часть
+  {"public": true}
+  </h1>
+</section>
+<article>
+  <h3>
+  второстепенная часть
+  </h3>
+</article>
+<footer> подвал</footer>
+</body>
+
+</html>
